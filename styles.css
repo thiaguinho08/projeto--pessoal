@@ -18,7 +18,7 @@
 }
 
 .foto {
-    width: 48%;
+    width: 89%;
     background-color: #fff;
     padding: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -26,9 +26,9 @@
 }
 
 .foto img {
-    width: 100%;
-    max-width: 250px;
-    border-radius: 50%;
+    width: 60%;
+    max-width: 100px;
+    border-radius: 30%;
 }
 
 .music-links, .video-links {
