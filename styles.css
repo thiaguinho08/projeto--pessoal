@@ -68,7 +68,7 @@ iframe {
 }
 
 .footer {
-    background-color: rgb(249, 182, 226);
+    background-color: rgb(27, 25, 26);
     color: white;
     text-align: center;
     padding: 10px 0;
@@ -93,7 +93,7 @@ iframe {
 }
 
 .recommendations a {
-    color: black;
+    color: rgb(245, 184, 216);
     text-decoration: none;
 }
 
