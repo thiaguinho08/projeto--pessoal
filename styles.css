@@ -18,15 +18,15 @@
 }
 
 .foto {
-    width: 89%;
+    width: 40%;
     background-color: #fff;
-    padding: 20px;
+    padding: 150px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     text-align: center;
 }
 
 .foto img {
-    width: 10%;
+    width: 89%;
     max-width: 15px;
     border-radius: 5%;
     display: block;
