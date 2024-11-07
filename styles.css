@@ -26,9 +26,9 @@
 }
 
 .foto img {
-    width: 60%;
-    max-width: 100px;
-    border-radius: 30%;
+    width: 10%;
+    max-width: 50px;
+    border-radius: 5%;
 }
 
 .music-links, .video-links {
